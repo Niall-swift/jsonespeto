@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "nome": "MONSTE",
+      "img": "https://niall-swift.github.io/espetinho/img/pngkey.com-drinks-png-599305.png",
+      "descricao": "ENEGYR",
+      "preco": "8.50",
+      "id": 5
+    }
+  ]
+}
