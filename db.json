@@ -6,21 +6,8 @@
       "descricao": "sss",
       "preco": "5.00",
       "id": 1
-    },
-    {
-      "nome": "FANTA LARANJA",
-      "img": "https://niall-swift.github.io/espetinho/img/pngkey.com-fanta-png-691544.png",
-      "descricao": "Fanta é uma marca de refrigerantes, que detém uma linha variada de produtos e que pertence à The Coca-Cola Company.",
-      "preco": "5.00",
-      "id": 2
-    },
-    {
-      "nome": "PEPSI",
-      "img": "https://niall-swift.github.io/espetinho/img/pngkey.com-refrigerante-png-4034274.png",
-      "descricao": "Originalmente, a fórmula da Pepsi foi criada para fins medicinais e passou a ser comercializado em 1893.",
-      "preco": "5.00",
-      "id": 3
-    }  
+    }
+    
   ]
 }
 
